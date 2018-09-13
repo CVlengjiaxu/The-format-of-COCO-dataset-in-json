@@ -24,11 +24,13 @@ info{
 "url": str,
 "date_created": datetime,
 }
+
 license{
 "id": int,
 "name": str,
 "url": str,
 } 
+
 image{
 "id": int,
 "width": int,
